@@ -1,0 +1,3 @@
+LocalTimestamp,EmotiBitTimestamp,PacketNumber,DataLength,TypeTag,ProtocolVersion,DataReliability,UN
+1700035306.000000,47514,5303,2,UN,1,100,inizio con la sessione di corsa
+1700036227.000000,947259,17479,2,UN,1,100,fine sessione corsa
